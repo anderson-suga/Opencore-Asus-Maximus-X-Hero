@@ -12,6 +12,8 @@
 
 ## USB ports mapping
 
+Model: iMac19,1
+
 | **Type** | **Name** | **Port** | **Connector** |
 | -------- | -------- | -------- | ------------- |
 | XHC      | HS01     | 0x01     | USB2          |
@@ -29,5 +31,4 @@
 | XHC      | SS05     | 0x15     | USB3          |
 | XHC      | SS06     | 0x16     | USB3          |
 
-<br/>
-Model: iMac19,1
+![motherboard](img/h732.png)
